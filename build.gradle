@@ -69,3 +69,5 @@ assets {
     minifyJs = true
     minifyCss = true
 }
+
+grails.pathingJar = true
